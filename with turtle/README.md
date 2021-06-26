@@ -1,5 +1,6 @@
 # Python lessons with turtle
 You can play, fork and find description here: https://replit.com/@ReDream/Turtle-Lessons6-Make-a-custom-shape-follow-the-mouse-click?v=1
+![how it looks like on this stage](https://github.com/ZackPashkin/3d-game-with-neural-network/blob/main/part_5/3d_game_part4.gif)
 
 ## lesson1.py
 Turtle simple app that draws a polygon
